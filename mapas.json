@@ -1,0 +1,14 @@
+[
+  {
+    "id": "ecuador",
+    "nombre": "Mapa Ecuador",
+    "sizeMB": 120,
+    "file": "ecuador.zip"
+  },
+  {
+    "id": "colombia",
+    "nombre": "Mapa Colombia",
+    "sizeMB": 180,
+    "file": "colombia.zip"
+  }
+]
