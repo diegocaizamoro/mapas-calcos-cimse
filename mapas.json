@@ -1,14 +1,14 @@
 [
   {
-    "id": "ecuador",
-    "nombre": "Mapa Ecuador",
+    "id": "Azuay_1",
+    "nombre": "Mapa Azuay",
     "sizeMB": 120,
-    "file": "ecuador.zip"
+    "file": "Azuay_1.mbtiles"
   },
   {
-    "id": "colombia",
-    "nombre": "Mapa Colombia",
+    "id": "ElOro_1",
+    "nombre": "Mapa El Oro",
     "sizeMB": 180,
-    "file": "colombia.zip"
+    "file": "ElOro_1.mbtiles"
   }
 ]
