@@ -1,14 +1,16 @@
 [
   {
-    "id": "Azuay_1",
-    "nombre": "Mapa Azuay",
+    "id": "Esmeraldas_1",
+    "nombre": "Mapa Esmeraldas",
     "sizeMB": 120,
-    "file": "Azuay_1.mbtiles"
+    "file": "Esmeraldas_1.mbtiles",
+    "url": "https://github.com/diegocaizamoro/mapas-calcos-cimse/releases/download/untagged-b87f1a21c42d85d2fa35/Esmeraldas_1.mbtiles"
   },
   {
     "id": "ElOro_1",
     "nombre": "Mapa El Oro",
     "sizeMB": 180,
-    "file": "ElOro_1.mbtiles"
+    "file": "ElOro_1.mbtiles",
+    "url": "https://github.com/diegocaizamoro/mapas-calcos-cimse/releases/download/untagged-b87f1a21c42d85d2fa35/ElOro_1.mbtiles"
   }
 ]
