@@ -1,23 +1,79 @@
 [
   {
     "id": "Esmeraldas_1",
-    "nombre": "Mapa Esmeraldas",
+    "nombre": "Esmeraldas",
     "sizeMB": 478,
     "file": "Esmeraldas_1.mbtiles",
     "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/a83d3e40-d9f9-47e6-8bce-cf78a6798eb0?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T18:58:09Z&rscd=attachment; filename=Esmeraldas_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T17:57:40Z&ske=2026-01-18T18:58:09Z&sks=b&skv=2018-11-09&sig=LKyC/GSpqaiDZ2Fy35TKNfZbnnOKcpPCZoZ8484hhRI=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc2MjgzNiwibmJmIjoxNzY4NzU5MjM2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.zLSr554V4GlrAE2ahnWk_6K9FMN2mOZ6Y61-_wTRaG8&response-content-disposition=attachment; filename=Esmeraldas_1.mbtiles&response-content-type=application/octet-stream"
   },
   {
     "id": "ElOro_1",
-    "nombre": "Mapa El Oro",
-    "sizeMB": 180,
+    "nombre": "El Oro",
+    "sizeMB": 226,
     "file": "ElOro_1.mbtiles",
     "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/13816bc5-8bda-498a-b7dc-5ced1519f7e6?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T19:04:51Z&rscd=attachment; filename=ElOro_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T18:04:43Z&ske=2026-01-18T19:04:51Z&sks=b&skv=2018-11-09&sig=Uw2zuCeS+U89aZWBwrg290ZBGm0nQ6Cjm6colx/Ag0s=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc2MzM0NiwibmJmIjoxNzY4NzU5NzQ2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.VtQSPhMd8ULtJCtQxTDIKPbXGDefQYl6N3bHLtd9FxU&response-content-disposition=attachment; filename=ElOro_1.mbtiles&response-content-type=application/octet-stream"
   },
   {
     "id": "Loja_1",
-    "nombre": "Mapa Loja",
-    "sizeMB": 599,
-    "file": "ElOro_1.mbtiles",
+    "nombre": "Loja",
+    "sizeMB": 426,
+    "file": "Loja_1.mbtiles",
     "url":	"https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/515843bc-e4b0-434e-86d1-f050feb1c90b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T19:06:40Z&rscd=attachment; filename=Loja_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T18:06:23Z&ske=2026-01-18T19:06:40Z&sks=b&skv=2018-11-09&sig=C9gXh6sE+Hia/43qoWerEhGtMQRtnMs1DVTXOX3HJkY=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc2MzY5NiwibmJmIjoxNzY4NzYwMDk2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ESFEgLnucQn_66IqRst18QjuDApySWJszzfseg_edgo&response-content-disposition=attachment; filename=Loja_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Sucumbios_1",
+    "nombre": "Sucumbios",
+    "sizeMB": 599,
+    "file": "Sucumbios_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/b8e8afb7-eb84-4ba8-a81f-62fef60ac1c4?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:35:01Z&rscd=attachment; filename=Sucumbios_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:34:31Z&ske=2026-01-18T21:35:01Z&sks=b&skv=2018-11-09&sig=tVRjiNb4/oCXjszrrWztS3HVK14UAH1ouWwpiI7pXRM=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjA3MSwibmJmIjoxNzY4NzY4NDcxLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.5uMISe0wztYBVksYwqHSxH638cXOTwAmgvNba4UQfOY&response-content-disposition=attachment; filename=Sucumbios_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Canar_1",
+    "nombre": "Cañar",
+    "sizeMB": 119,
+    "file": "Canar_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/4b72df7f-7120-427f-ae10-2c70c187bedf?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:28:49Z&rscd=attachment; filename=Canar_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:28:06Z&ske=2026-01-18T21:28:49Z&sks=b&skv=2018-11-09&sig=CBq0FVXc/nBLt68M79SbMj66Ze85N6wAeYE6LOdRZ3E=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjI1NiwibmJmIjoxNzY4NzY4NjU2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.GA1b_FgPxFc96pozwRCisP11az5p3FmRbHKvTZ3iWM8&response-content-disposition=attachment; filename=Canar_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Bolivar_1",
+    "nombre": "Bolivar",
+    "sizeMB": 166,
+    "file": "Bolivar_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/23d41c3e-ce7a-4b5f-9586-8c1d6d6f04ca?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:26:29Z&rscd=attachment; filename=Bolivar_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:26:05Z&ske=2026-01-18T21:26:29Z&sks=b&skv=2018-11-09&sig=NBzCRr7P+mmI1o/+UZBssPLp4C/0soED+KC9jubu724=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjM2NiwibmJmIjoxNzY4NzY4NzY2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.QFU5ALHDwMso7ZSTPVTAGQQFU-UedKiZDLQ4_jimT7E&response-content-disposition=attachment; filename=Bolivar_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Carchi_1",
+    "nombre": "Carchi",
+    "sizeMB": 50,
+    "file": "Carchi_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/40c8974b-038e-48ca-aa87-275f7288a443?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:15:26Z&rscd=attachment; filename=Carchi_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:14:46Z&ske=2026-01-18T21:15:26Z&sks=b&skv=2018-11-09&sig=yEYwEuCpePQD9hXwjkK72vMfC3TWszo4nJVKYc8o9v4=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MDY1NywibmJmIjoxNzY4NzY4ODU3LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.3m0ueOM0owNAD3HX8eYS7LDdK7jUVeoHC_Eflj23HoI&response-content-disposition=attachment; filename=Carchi_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Napo_1",
+    "nombre": "Napo",
+    "sizeMB": 367,
+    "file": "Napo_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/6bdcdfed-d77c-4c9d-9af1-dcad8e2d2a35?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:31:25Z&rscd=attachment; filename=Napo_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:30:58Z&ske=2026-01-18T21:31:25Z&sks=b&skv=2018-11-09&sig=vmEm2LMq8ILtu7aLuRKJe4sQNjsP0A2hlmP0ZQVSVoA=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjUzNSwibmJmIjoxNzY4NzY4OTM1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.jM1O1kPPy3LdV0Oy85LmGXOCJxYOAC53goLxbIwNYFQ&response-content-disposition=attachment; filename=Napo_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Imbabura_1",
+    "nombre": "Imbabura",
+    "sizeMB": 186,
+    "file": "Imbabura_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/2758d79b-a8ff-46ce-8ef4-ca866a7b774c?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:25:20Z&rscd=attachment; filename=Imbabura_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:25:13Z&ske=2026-01-18T21:25:20Z&sks=b&skv=2018-11-09&sig=Iq+oaIJh6sz+HP52d/5rSTcY6dVUKGRgUznNjFOnHB8=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjYxOCwibmJmIjoxNzY4NzY5MDE4LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.QlETphvWX5yQiDTxM-lbOLnniQ-yfUrKOsleDPFLBjw&response-content-disposition=attachment; filename=Imbabura_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Orellana_1",
+    "nombre": "Orellana",
+    "sizeMB": 411,
+    "file": "Orellana_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/9575be00-0ed0-4664-baa4-3b51bbdfe179?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:25:20Z&rscd=attachment; filename=Orellana_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:25:13Z&ske=2026-01-18T21:25:20Z&sks=b&skv=2018-11-09&sig=K1F+n7nWTj5NzB49OXubg8SfDYwlT6kIL3jSONSIRc8=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3MjY4NiwibmJmIjoxNzY4NzY5MDg2LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.TvMGFPc5MFBGxd4Csu2Kz_AzTzDJU-HU3HrucnuBhqU&response-content-disposition=attachment; filename=Orellana_1.mbtiles&response-content-type=application/octet-stream"
+  },
+  {
+    "id": "Zamora_1",
+    "nombre": "Zamora",
+    "sizeMB": 412,
+    "file": "Zamora_1.mbtiles",
+    "url": "https://release-assets.githubusercontent.com/github-production-release-asset/1136468617/f3dbcb44-1d48-4a5c-984f-2bc595c31a22?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-01-18T21:25:07Z&rscd=attachment; filename=Zamora_1.mbtiles&rsct=application/octet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-01-18T20:24:58Z&ske=2026-01-18T21:25:07Z&sks=b&skv=2018-11-09&sig=pFczPgAxaCbru6S4mS4b87BpJOIECI1TPTu34BO5EzM=&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc2ODc3Mjc2MywibmJmIjoxNzY4NzY5MTYzLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.w_E4gi_USjJC32c9i_vPVdcKBYToFQnUovHDjpFeu64&response-content-disposition=attachment; filename=Zamora_1.mbtiles&response-content-type=application/octet-stream"
   }
 ]
